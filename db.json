@@ -1,0 +1,99 @@
+{
+    "cards": [
+        {
+            "exposed": false,
+            "picture": "duck",
+            "card2": "duck"
+        },
+        {
+            "exposed": false,
+            "picture": "kitten",
+            "card2": "kitten"
+        },
+        {
+            "exposed": false,
+            "picture": "piglet",
+            "card2": "piglet"
+        },
+        {
+            "exposed": false,
+            "picture": "puppy",
+            "card2": "puppy"
+        },
+        {
+            "exposed": false,
+            "picture": "calf",
+            "card2": "calf"
+        },
+        {
+            "exposed": false,
+            "picture": "veal",
+            "card2": "veal"
+        },
+        {
+            "exposed": false,
+            "picture": "lamb",
+            "card2": "lamb"
+        },
+        {
+            "exposed": false,
+            "picture": "rooster",
+            "card2": "rooster"
+        },
+        {
+            "exposed": false,
+            "picture": "horse",
+            "card2": "horse"
+        },
+        {
+            "exposed": false,
+            "picture": "mouse",
+            "card2": "mouse"
+        },
+        {
+            "exposed": false,
+            "picture": "dog",
+            "card2": "dog"
+        },
+        {
+            "exposed": false,
+            "picture": "cat",
+            "card2": "cat"
+        },
+        {
+            "exposed": false,
+            "picture": "goose",
+            "card2": "goose"
+        },
+        {
+            "exposed": false,
+            "picture": "goat",
+            "card2": "goat"
+        },
+        {
+            "exposed": false,
+            "picture": "sheep",
+            "card2": "sheep"
+        },
+        {
+            "exposed": false,
+            "picture": "pig",
+            "card2": "pig"
+        },
+        {
+            "exposed": false,
+            "picture": "cow",
+            "card2": "cow"
+        },
+        {
+            "exposed": false,
+            "picture": "chick",
+            "card2": "chick"
+        },
+        {
+            "exposed": false,
+            "picture": "hen",
+            "card2": "hen"
+        }
+    ]
+}
