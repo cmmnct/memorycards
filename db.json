@@ -3,97 +3,97 @@
         {
             "exposed": false,
             "picture": "duck",
-            "card2": "duck"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "kitten",
-            "card2": "kitten"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "piglet",
-            "card2": "piglet"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "puppy",
-            "card2": "puppy"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "calf",
-            "card2": "calf"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "veal",
-            "card2": "veal"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "lamb",
-            "card2": "lamb"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "rooster",
-            "card2": "rooster"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "horse",
-            "card2": "horse"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "mouse",
-            "card2": "mouse"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "dog",
-            "card2": "dog"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "cat",
-            "card2": "cat"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "goose",
-            "card2": "goose"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "goat",
-            "card2": "goat"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "sheep",
-            "card2": "sheep"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "pig",
-            "card2": "pig"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "cow",
-            "card2": "cow"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "chick",
-            "card2": "chick"
+            "taken": false
         },
         {
             "exposed": false,
             "picture": "hen",
-            "card2": "hen"
+            "taken": false
         }
     ]
 }
